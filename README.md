@@ -4,10 +4,9 @@
 Here are some ideas to get you started: 
 -->
 
-- Atualmente aluna no curso de bacharelado em ciência da computação na Unesp de Rio Claro.
 - Formada no curso técnino em informática integrado ao ensino médio no IFSP de Araraquara - 1º contato com a área de tecnologia.
-- Iniciei curso de inglês aos 11 anos de idade e estou até hoje - apaixonada pela língua inglesa.
-- Pratiquei espanhol em meus 3 últimos anos de ensino médio integrado e mantenho contato com a língua.
+- Iniciei curso de inglês aos 11 anos de idade - apaixonada pela língua inglesa.
+- Pratiquei espanhol em meus 3 últimos anos de ensino médio e mantenho contato com a língua.
 - Me encanto por desenvolver novos projetos de tecnologia, desde conceituar a ideia inicial até a parte prática de programar, tanto back-end quanto front-end.
 
 <div>
