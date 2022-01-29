@@ -4,10 +4,10 @@
 Here are some ideas to get you started: 
 -->
 
-- Formada no curso técnino em informática integrado ao ensino médio no IFSP de Araraquara - 1º contato com a área de tecnologia.
-- Iniciei curso de inglês aos 11 anos de idade - apaixonada pela língua inglesa.
-- Pratiquei espanhol em meus 3 últimos anos de ensino médio e mantenho contato com a língua.
+- Tenho 21 anos e sou formada no curso Técnino em Informática integrado ao ensino médio - IFSP de Araraquara (1º contato com a área de tecnologia).
+- Comecei  a fazer curso de inglês aos 11 anos de idade e pratiquei espanhol em meus 3 últimos anos de ensino médio - sigo mantendo contato com ambos os idiomas.
 - Me encanto por desenvolver novos projetos de tecnologia, desde conceituar a ideia inicial até a parte prática de programar, tanto back-end quanto front-end.
+- O que mais me inspira na área é a capacidade inovadora da tecnologia de mudar a vida das pessoas para melhor.
 
 <div>
   <a href = "https://github.com/biancapastos">
