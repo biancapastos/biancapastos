@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - Comecei  a fazer curso de inglês aos 11 anos de idade e pratiquei espanhol em meus 3 últimos anos de ensino médio - sigo mantendo contato com ambos os idiomas.
 - Atualmente cursando Bacharelado em Ciência da Computação na UNESP - Universidade Estadual Paulista.
 - Me encanto por desenvolver novos projetos de tecnologia, desde conceituar a ideia inicial até a parte prática de programar.
-- Tenho interesse nas áreas de Densenvolvimento Web fullstack e Análise de Dados.
+- Tenho interesse nas áreas de Desenvolvimento Web fullstack e Análise de Dados.
 - O que mais me inspira na área é a capacidade inovadora da tecnologia de transformar a vida das pessoas.
   
 ##
