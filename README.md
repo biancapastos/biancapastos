@@ -1,28 +1,21 @@
 ### Hi there, Bianca here! 👋
-<!--
-**biancapastos/biancapastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: 
--->
 
-- Tenho 22 anos e sou formada no curso Técnino em Informática integrado ao Ensino Médio, forma em que obtive o meu 1º contato com a área de tecnologia.
-- Comecei  a fazer curso de inglês aos 11 anos de idade e pratiquei espanhol em meus 3 últimos anos de ensino médio - sigo mantendo contato com ambos os idiomas.
-- Atualmente cursando Bacharelado em Ciência da Computação na UNESP - Universidade Estadual Paulista.
-- Me encanto por desenvolver novos projetos de tecnologia, desde conceituar a ideia inicial até a parte prática de programar.
-- Tenho interesse nas áreas de Desenvolvimento Web fullstack e Análise de Dados.
-- Já trabalhei com: HTML, CSS, JavaScript, PHP, C, Java, Python, Flask, Django, Snakemake, MySQL, MariaDB, R.
-- O que mais me inspira na área é a capacidade inovadora da tecnologia de transformar a vida das pessoas.
+- I'm a computer technician completing my Bachelor's degree in Computer Science.
+- I'm currently working as a Data Analyst Intern.
+- Completed 11 years of english courses and now i'm directly collaborating with international/American teams.
+- Engaged in technology field for 7 years.
+- Currently working with Python, SQL and BigQuery.
+- Enthusiastic about data analysis and web development areas.
+- Experienced in extension projects, scientific initiation and internship. Check out my LinkedIn for more details.
   
 ##
-<div>
-  <strong>Perfis: </strong>
-  <br />
-  <a href="https://www.linkedin.com/in/bianca-pastos-0620a9182" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+<div> 
+  <a href="https://www.linkedin.com/in/guilhermemarques13/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/biancapastos" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 <br />
 <div>
-  <strong>Linguagens de Programação: </strong>
+  <strong>Programming: </strong>
   <br /> <br />
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -38,13 +31,3 @@ Here are some ideas to get you started:
   </a>
 </div>
 <br />
-<div>
-  <strong>Banco de Dados:</strong>
-  <br /> <br />
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</div>
