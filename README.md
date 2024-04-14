@@ -7,26 +7,35 @@
 - Currently working with Python, SQL and BigQuery.
 - Enthusiastic about data analysis and web development areas.
 - Experienced in extension projects, scientific initiation and internship. Check out my LinkedIn for more details.
-  
+
+
+<div align = "center">
+    <img height="180em" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancapastos&layout=compact&langs_count=7&theme=merko"/>
+</div>
+
 ##
-<div> 
+
+#### Programming
+
+<div>
+
+  ![C](https://img.shields.io/badge/-C-000?&logo=C)
+  
+  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+
+  ![BigQuery](https://img.shields.io/badge/-BigQuery-000?&logo=GoogleCloud)
+  ![LookerStudio](https://img.shields.io/badge/-LookerStudio-000?&logo=GoogleCLoud)
+
+  ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+  
+</div>
+
+<br />
+
+<div align = "right"> 
   <a href="https://www.linkedin.com/in/bianca-pastos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-<br />
-<div>
-  <strong>Programming: </strong>
-  <br /> <br />
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-</div>
-<br />
